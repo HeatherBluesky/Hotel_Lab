@@ -16,6 +16,16 @@ db.bookings.insertMany([
         name: "Fiona",
         email: "greenqueen@swampmail.com",
         status: true
+    },
+    {
+        name: "Charming",
+        email: "handsome1@swampmail.com",
+        status: true
+    },
+    {
+        name: "Lord Farquaad",
+        email: "LordF@swampmail.com",
+        status: true
     }
 
 ]);
